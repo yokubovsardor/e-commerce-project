@@ -1,3 +1,12 @@
 *{
-    margin: auto;
+    margin: ;
+}
+
+button{
+    background-color: yellow;
+    border-radius: 15px;
+}
+
+button:hover{
+    background-color: #fff;
 }
